@@ -4,7 +4,7 @@
 
 ### hii, I'm Sahil Kulkarni! 👋
 
-<a href="https://images.app.goo.gl/FoqvcodBvNVFWwM6.mp4"><\a>
+<a href="https://images.app.goo.gl/FoqvcodBvNVFWwM6"></a>
 
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
