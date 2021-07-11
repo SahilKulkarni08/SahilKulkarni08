@@ -7,7 +7,8 @@
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
 - 💞️ I’m looking to collaborate on Jupyter.
-- 💬 Ask me about Flask or any python-web related stuff.            ![5g3ugx](https://user-images.githubusercontent.com/72211965/125185106-9214ff80-e1d7-11eb-92bcb8cc40d55c.gif)
+- 💬 Ask me about Flask or any python-web related stuff.         ![5g3uoq](https://user-images.githubusercontent.com/72211965/125185192-28e1bc00-e1d8-11eb-8756-b3934a4e44d7.gif)
+
 - 😄 I've seen game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
