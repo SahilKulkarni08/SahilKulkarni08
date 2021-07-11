@@ -2,9 +2,7 @@
 
 
 
-### hii, I'm Sahil Kulkarni! 👋
-![5g3ugx](https://user-images.githubusercontent.com/72211965/125185106-9214ff80-e1d7-11eb-9284-bcb8cc40d55c.gif)
-
+### hii, I'm Sahil Kulkarni! 👋 ![5g3ugx](https://user-images.githubusercontent.com/72211965/125185106-9214ff80-e1d7-11eb-9284-bcb8cc40d55c.gif)
 
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
