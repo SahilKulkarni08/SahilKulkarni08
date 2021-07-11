@@ -3,7 +3,7 @@
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
 - 💞️ I’m looking to collaborate on Jupyter.
-- 📫 How to reach me -[@Sahil Kulkarni](linkedin.com/in/sahil-kulkarni-611a70202)
+- 📫 How to reach me -[linkedin:sahilkulkarni](%5B@Sahil%20Kulkarni%5D%28linkedin.com/in/sahil-kulkarni-611a70202%29)
 - 💬 Ask me about Flask or any python-web related stuff.
 - 😄 I've seen game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
