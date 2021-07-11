@@ -3,6 +3,7 @@
 
 
 ### hii, I'm Sahil Kulkarni! 👋
+<img src="https://imgflip.com/gif/5g3ugx">
 
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
