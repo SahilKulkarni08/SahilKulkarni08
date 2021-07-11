@@ -3,12 +3,14 @@
 
 
 ### hii, I'm Sahil Kulkarni! 👋 
+  
+  ![5g3uoq](https://user-images.githubusercontent.com/72211965/125185217-5890c400-e1d8-11eb-96eb-f765ab229567.gif)
+
 
 - 👀 I’m interested in deep learning, NLP and python web. 
 - 🌱 I’m currently learning Flask.
 - 💞️ I’m looking to collaborate on Jupyter.
-- 💬 Ask me about Flask or any python-web related stuff.         ![5g3uoq](https://user-images.githubusercontent.com/72211965/125185192-28e1bc00-e1d8-11eb-8756-b3934a4e44d7.gif)
-
+- 💬 Ask me about Flask or any python-web related stuff.      
 - 😄 I've seen game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
