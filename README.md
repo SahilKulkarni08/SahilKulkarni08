@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Flask.
 - 💞️ I’m looking to collaborate on Jupyter.
 - 💬 Ask me about Flask or any python-web related stuff.      
-- 😄 I've watched game of thrones twice.
+- 😄 fun fact- I've watched game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
 <img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
