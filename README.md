@@ -35,7 +35,7 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
-### Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali">
 
 <!---
