@@ -22,15 +22,11 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<!--
+
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 
 
 
