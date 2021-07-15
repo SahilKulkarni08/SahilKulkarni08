@@ -15,7 +15,7 @@
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
 ### Github Stats
-https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali
+<img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali">
 
 <!---
 SahilKulkarni08/SahilKulkarni08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
