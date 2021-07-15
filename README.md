@@ -21,4 +21,6 @@
 SahilKulkarni08/SahilKulkarni08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+###Top Langs
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulkarni08&show_icons=true">
 ⭐️ From [@sahilkulkarni08](https://github.com/sahilkulkarni08)
