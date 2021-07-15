@@ -14,7 +14,8 @@
 - 😄 fun fact- I've watched game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### Github Stats
+https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali
 
 <!---
 SahilKulkarni08/SahilKulkarni08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
