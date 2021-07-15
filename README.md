@@ -12,6 +12,7 @@
 - 💞️ I’m looking to collaborate on Jupyter.
 - 💬 Ask me about Flask or any python-web related stuff.      
 - 😄 fun fact- I've watched game of thrones twice.
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
 <h3>🛠 Tech Stack</h3>
