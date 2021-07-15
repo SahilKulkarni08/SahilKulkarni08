@@ -14,6 +14,31 @@
 - 😄 fun fact- I've watched game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali">
 
