@@ -37,13 +37,14 @@
 
 <hr>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulkarni08&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali">
 
 <!---
 SahilKulkarni08/SahilKulkarni08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulkarni08&show_icons=true">
+
 <br>
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
