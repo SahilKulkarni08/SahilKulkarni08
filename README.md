@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Python | Java | C++ | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Flask
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Flask | ML
 
 
 
