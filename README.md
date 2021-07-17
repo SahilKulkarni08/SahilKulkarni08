@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C++ | C 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Flask
 
